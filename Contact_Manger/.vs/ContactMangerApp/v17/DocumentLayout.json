@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\contact_m.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\contact_m.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|g:\\web_track\\contact_manger\\contact_manger\\contact_manger\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF342187-0AB9-4057-A5B0-3A64DCB43E2D}|Contact_Manger\\Contact_M.csproj|solutionrelative:contact_manger\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact_M.csproj",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Contact_M.csproj",
+              "RelativeDocumentMoniker": "Contact_Manger\\Contact_M.csproj",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Contact_M.csproj",
+              "RelativeToolTip": "Contact_Manger\\Contact_M.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T22:20:25.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Address.cs",
+              "RelativeDocumentMoniker": "Contact_Manger\\Address.cs",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Address.cs",
+              "RelativeToolTip": "Contact_Manger\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:37:21.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Phone.cs",
+              "RelativeDocumentMoniker": "Contact_Manger\\Phone.cs",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Phone.cs",
+              "RelativeToolTip": "Contact_Manger\\Phone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:38:34.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Email.cs",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Email.cs",
+              "RelativeDocumentMoniker": "Contact_Manger\\Email.cs",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Email.cs",
+              "RelativeToolTip": "Contact_Manger\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:38:02.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\User.cs",
+              "RelativeDocumentMoniker": "Contact_Manger\\User.cs",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\User.cs",
+              "RelativeToolTip": "Contact_Manger\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:36:53.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Contacts.cs",
+              "RelativeDocumentMoniker": "Contact_Manger\\Contacts.cs",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Contacts.cs",
+              "RelativeToolTip": "Contact_Manger\\Contacts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:36:31.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Program.cs",
+              "RelativeDocumentMoniker": "Contact_Manger\\Program.cs",
+              "ToolTip": "G:\\Web_Track\\Contact_Manger\\Contact_Manger\\Contact_Manger\\Program.cs",
+              "RelativeToolTip": "Contact_Manger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:40:32.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

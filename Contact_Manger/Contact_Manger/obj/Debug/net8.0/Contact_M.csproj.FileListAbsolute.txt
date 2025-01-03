@@ -1,0 +1,14 @@
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\bin\Debug\net8.0\Contact_M.exe
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\bin\Debug\net8.0\Contact_M.deps.json
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\bin\Debug\net8.0\Contact_M.runtimeconfig.json
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\bin\Debug\net8.0\Contact_M.dll
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\bin\Debug\net8.0\Contact_M.pdb
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.AssemblyInfoInputs.cache
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.AssemblyInfo.cs
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.csproj.CoreCompileInputs.cache
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.dll
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\refint\Contact_M.dll
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.pdb
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\Contact_M.genruntimeconfig.cache
+G:\Web_Track\Contact_Manger\Contact_Manger\Contact_Manger\obj\Debug\net8.0\ref\Contact_M.dll
